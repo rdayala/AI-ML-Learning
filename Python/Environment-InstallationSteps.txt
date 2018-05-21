@@ -1,0 +1,21 @@
+MacOSx or Linux : installing python package manager pip 
+
+	pip install -U pip
+
+Windows :
+
+	python -m pip install -U pip
+
+
+to install lot of dependency packages separately :
+
+	pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+
+
+Installing scikit-kearn :
+---------------------------
+
+	pip install -U scikit-learn
+
+	
+
