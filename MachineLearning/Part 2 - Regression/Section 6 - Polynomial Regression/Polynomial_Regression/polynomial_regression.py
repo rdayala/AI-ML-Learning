@@ -51,6 +51,7 @@ plt.show()
 
 # Visualising the Polynomial Regression results (for higher resolution and smoother curve)
 X_grid = np.arange(min(X), max(X), 0.1)
+# X_grid is an array, and we want to convert to matrix of rows, columns (we are using 1 column )
 X_grid = X_grid.reshape((len(X_grid), 1))
 plt.scatter(X, y, color = 'red')
 plt.plot(X_grid, lin_reg_2.predict(poly_reg.fit_transform(X_grid)), color = 'blue')
