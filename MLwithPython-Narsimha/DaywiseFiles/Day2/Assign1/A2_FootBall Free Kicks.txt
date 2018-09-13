@@ -1,0 +1,33 @@
+
+
+FOOTBALL FREE KICKS
+
+Supplied data for two more additional in-game statistics:
+- Free Kicks
+- Free Kicks Attempts
+
+You need to create three plots that portray the following insights:
+
+1- Free Kick Attempts per game
+2- Accuracy of Free Kicks
+3- Player playing style excluding Free Kicks*
+
+*Each Free Kick is worth 1 point
+The data has been supplied in the form of vectors. You will have to create
+the two matrices before you proceed with the analysis
+
+The matrix calculation for part 3 is:
+(Points - FreeKicks) / FieldGoals
+
+
+
+
+
+
+
+
+
+
+
+
+

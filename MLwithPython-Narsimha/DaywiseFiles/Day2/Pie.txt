@@ -1,0 +1,16 @@
+#Plot a pie chart for number of games played per season
+
+# Hint: create a list object with 10 values , each value corresponding to the sum of all games played in that season
+
+colors = 
+['gold', 'yellowgreen', 'lightcoral','lightskyblue','Green','red','blue','grey','magenta','pink']
+
+explodeTuple = (0.1, 0, 0, 0,0,0,0,0,0,0)  # explode 1st slice
+ 
+# Plot
+ 
+plt.pie(___input data_____, explode=explodeTuple, labels=__label_list___, colors=colors,
+        autopct='%1.1f%%', shadow=True, startangle=180)
+   
+plt.axis('equal')
+plt.show()

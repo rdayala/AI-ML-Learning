@@ -1,0 +1,18 @@
+
+import numpy as np
+from numpy.random import randint
+
+# Random number guess using While Loop
+#  var = randint(1,10)
+
+generate random num = win number
+
+accept from user = guess number
+
+only 5 guess
+
+guess right	congratulate
+guess wrong	try again
+out of guess	display message you loose and the win num was
+
+

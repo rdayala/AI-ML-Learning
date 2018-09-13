@@ -1,0 +1,12 @@
+Hints:
+1-Create dataframe of .csv file named (DF)
+2-Create dataframe of List1 names DFLifeExp with columns 	(CountryCode,LifeExp1960,LifeExp2013)
+3-Create dataframe of List2 names DFCountryData with columns 	(CountryName, CountryCode,CountryRegion)
+
+4-merge DF and DFCountryData on country_code with inner join, name the result dataframe as merge_data
+5-Plot an lmplot InternetUsers Vs BirthRate , as per CountryRegion, using merge_data dataframe
+
+6-merge dataframe  merge_data and DFLifeExp with inner join, name the result dataframe as merge_life_data
+7-Plot an lmplot  BirthRate Vs LifeExp1960 , as per CountryRegion, using merge_life_data dataframe
+8-Plot and lmplot  BirthRate Vs LifeExp2013, as per CountryRegion, using merge_life_data dataframe
+

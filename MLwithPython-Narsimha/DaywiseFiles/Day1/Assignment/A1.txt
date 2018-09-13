@@ -1,0 +1,27 @@
+"""
+Write a small program to ask for name and an age .
+when both values have been entered , check if the person is
+the right age 18-30 to go on an  holiday 
+(they must be over 18 and under 31)
+
+if they are welcome them to the holiday , otherwise print
+a (polite) message refusing them entry .
+"""
+
+if condition1:
+	action1
+elif condition2:
+	action2
+else:
+	action
+
+
+
+
+
+
+
+
+
+
+

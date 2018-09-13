@@ -1,0 +1,14 @@
+1.Calculate Goals per Game for each player in all seasons, round the value to zero decimals and store it in an array named goalsPerGame
+
+2.In season 2012 how many Goals per game James scored
+
+3.Calculate Minutes played in each Game for every player in all seasons, round the value to zero decimals and store it in an array named minutesPerGame
+
+4.Calculate the goal accuracy percentage of each player i.e take care of nan as zero value
+
+5.What is the highest and the lowest goal accuracy percentage
+
+6.What is the Player's name with the highest and the lowest goal accuracy
+
+
+
